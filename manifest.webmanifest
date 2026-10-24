@@ -1,0 +1,25 @@
+{
+  "name": "SnowReady — Preparação Snowboard",
+  "short_name": "SnowReady",
+  "description": "Plano doméstico de 13 semanas para preparação de snowboard.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1830",
+  "theme_color": "#0b1830",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
