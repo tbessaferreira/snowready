@@ -1,2 +1,2 @@
-# SnowReady v2
-Carrega todos os ficheiros na raiz do repositório GitHub Pages, substituindo os anteriores.
+# SnowReady v3
+Carrega todos os ficheiros e a pasta exercises na raiz do repositório.
