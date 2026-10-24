@@ -1,2 +1,2 @@
-# SnowReady v4
-Substitui todos os ficheiros anteriores no GitHub. Inclui descrições específicas, fim antecipado com progresso e treino em pausa recuperável.
+SnowReady v5 update
+Replace index.html, styles.css, app.js and sw.js in the repository root. Keep data.js, icons and exercises folder from v4.
