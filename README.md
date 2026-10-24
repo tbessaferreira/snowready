@@ -1,2 +1,2 @@
-# SnowReady v3
-Carrega todos os ficheiros e a pasta exercises na raiz do repositório.
+# SnowReady v4
+Substitui todos os ficheiros anteriores no GitHub. Inclui descrições específicas, fim antecipado com progresso e treino em pausa recuperável.
