@@ -1,0 +1,5 @@
+/* SnowReady v6.1 — ajustes visuais incrementais */
+.weeks button.weekDone{position:relative;padding-right:11px;overflow:visible}
+.weeks button.weekDone::after{content:'✓';position:absolute;right:-5px;top:-7px;transform:none;width:18px;height:18px;display:grid;place-items:center;border-radius:50%;background:#169c70!important;color:#fff!important;font-size:11px;line-height:18px;border:2px solid #fff;box-shadow:0 2px 5px rgba(0,0,0,.18);z-index:2}
+.weeks button.selected.weekDone::after{background:#169c70!important;color:#fff!important}
+.sessionWeekday{display:block;margin-bottom:3px;color:#087fc4;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.035em}

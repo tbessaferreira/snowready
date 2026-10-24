@@ -1,1 +1,4 @@
-SnowReady v6 update: substitute index.html, styles.css, app.js and sw.js. Keep all v5/v4 assets.
+SnowReady v6.1 incremental update
+
+Replace index.html and sw.js in the repository root, and add patch-v61.css and patch-v61.js.
+Keep app.js, styles.css, data.js, manifest, icons and exercises unchanged.
